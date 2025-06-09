@@ -60,3 +60,4 @@ for user in following.values():
 ### 🛠 **1️⃣ Install Dependencies**  
 ```bash
 pip install -r requirements.txt
+python3 main.py
