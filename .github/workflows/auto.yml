@@ -13,14 +13,14 @@ jobs:
 
       - name: 🛠 Set Git User
         run: |
-          git config --global user.name "ifeelscam"
-          git config --global user.email "shaikhatif278@gmail.com"
+          git config --global user.name "otterai"
+          git config --global user.email "uncle@flash.co"
 
       - name: 🐍 Generate Snake Pattern Commits
         run: |
           # 📆 Define Start & End Date
-          START_DATE="2022-01-01"  
-          END_DATE="2023-12-31"
+          START_DATE="2024-01-01"  
+          END_DATE="2025-07-26"
 
           FILE_NAME="snake_commits.txt"
           touch $FILE_NAME
